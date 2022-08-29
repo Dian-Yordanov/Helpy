@@ -1,0 +1,2 @@
+clear Lock
+keycode 66 = KP_Enter NoSymbol KP_Enter NoSymbol KP_Enter

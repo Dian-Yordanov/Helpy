@@ -1,0 +1,55 @@
+﻿#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\OnStart_2_version_for_direct_calling.ahk
+
+Gosub, helpy2
+
+#Include %A_ScriptDir%\\AHKDaemon\Numpad8.ahk
+
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\Class_CCButtonUsedForEasyCustomButtons.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ShiftMacros.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\tf.ahk
+
+#Include %A_ScriptDir%\AHKDaemon\Functions\tf_version_for_direct_calling.ahk
+
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\SoundControlFunctions.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ArrayMethods.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\Buggy-Mouse.ahk
+
+#Include %A_ScriptDir%\AHKlibs\tf.ahk
+#Include %A_ScriptDir%\AHKlibs\AutoXYWH.ahk
+#Include %A_ScriptDir%\AHKlibs\StringThings.ahk
+#Include %A_ScriptDir%\AHKlibs\XGraph.ahk
+#Include %A_ScriptDir%\AHKlibs\Gdip.ahk
+#Include %A_ScriptDir%\AHKlibs\BarChart.ahk	
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\OnStart.ahk
+#Include %A_ScriptDir%\AHKDaemon\Functions\0_StartImportConfig_version_for_direct_calling.ahk
+
+; This is the code for stylised buttons with arguments
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\StylizedButtonsWithArguments_version_for_direct_calling.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\helpyPMC.ahk
+
+}
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\RichEdit\RichEditOleCallback.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ModifiedMouseWheelTabScroll4Chrome_version_for_direct_calling.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\Class_CTLCOLORS.ahk
+#Include %A_ScriptDir%\OnTrigger\OnClipboardChange_optimised_for_gui43.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\43ALL_IN_ONE_version_for_direct_calling.ahk
+
+; THIS IS THE GUI FILE CONTAINING THE GUI FUNCTION
+; #IncludeAgain %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\HELPY2_NEW_VERSION.ahk
+; #IncludeAgain %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\HELPY2_Version_with_no_scroll.ahk
+#IncludeAgain %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ExampleGuiWithTabs-8Tabs.ahk
+
+
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ClassImageButton.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\EndZlogies-ExperimentalGuiLabels_version_for_direct_calling.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\Evernote.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\!UseThisFor_helpyGUI_Functions.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ChromeImprovements.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\dinamicM.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\Legacy_clipboard_manager_support_files.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\Unified_Functions_And_Labels_Script.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ClassSQLdatabase.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\Cryptahk.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\passwordmanager.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\ScrollFunctions_version_for_direct_calling.ahk
+#Include %A_ScriptDir%\AHKassociatedFiles\ScriptDividedByParts_version_for_direct_calling\UtilityHotkeys.ahk

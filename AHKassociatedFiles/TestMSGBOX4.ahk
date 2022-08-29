@@ -1,0 +1,3 @@
+﻿#Include %A_ScriptDir%\AHKassociatedFiles\SelfContainedScripts
+SetWorkingDir %A_ScriptDir%\AHKassociatedFiles\SelfContainedScripts
+#Include %A_ScriptDir%\AHKassociatedFiles\SelfContainedScripts\Class_CCButtonUsedForEasyCustomButtons.ahk

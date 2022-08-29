@@ -1,0 +1,11 @@
+from pynput.keyboard import Key, Controller
+keyboard = Controller()
+# keyboard.press('a')
+# keyboard.release('a')
+# keyboard.press(Key.cmd)
+# keyboard.release(Key.cmd)
+keyboard.press(Key.ctrl)
+# keyboard.press('c')
+# keyboard.release('c')
+keyboard.release(Key.ctrl)
+# keyboard.type('Nitratine')

@@ -1,0 +1,1 @@
+gnome-terminal -- /bin/sh -c "xdotool keydown alt key Tab; sleep 0.5; xdotool keyup alt"

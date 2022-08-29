@@ -1,0 +1,1 @@
+qmake QtHelpy.pro && make

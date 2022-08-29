@@ -1,0 +1,2 @@
+[21/09/2020]
+22.02.25,438 Gui:Example_with_tabs_ GuiControl: GuiEvent:Normal Event_Info:0 - GuiScrollBarClass.GetScrollInfo 1019 - GetScrollInfo(SIF_ALL) failed due to LastError 1400.

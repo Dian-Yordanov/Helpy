@@ -1,0 +1,2 @@
+cd ~/AHK/ahkprivate/AHKassociatedFiles/LinuxRelatedFiles/LinuxAutomation/
+node LinuxAutomationControlPanel.js xbindkeys_Shortcut_xbindkeys_file1 xmodmap_Shortcut_xmodmapControlPanel

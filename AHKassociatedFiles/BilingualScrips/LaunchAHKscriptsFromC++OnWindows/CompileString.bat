@@ -1,0 +1,1 @@
+C:\TDM-GCC-64\bin\g++ -Wall -fpermissive ahkAndC.cpp -o ahkAndC.exe

@@ -1,0 +1,10 @@
+# sample xbindkeys config
+# place this file at ~/.xbindkeysrc
+
+# make F8 launch Google Chrome browser
+"firefox"
+F8
+
+# make F3 do Ctrl+c
+"xvkbd -no-jump-pointer -xsendevent -text 'Cc'"
+F3

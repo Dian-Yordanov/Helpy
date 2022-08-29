@@ -1,0 +1,2 @@
+[21/09/2020]
+22.52.46,151 GuiClass.__New 1009 - Gui handle parameter is missing.

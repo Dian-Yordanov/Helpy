@@ -1,0 +1,18 @@
+# sample xbindkeys config
+# place this file at ~/.xbindkeysrc
+# currently using the "sleep 0.1 &&" format. other options are: 
+# xset r off; xdotool keydown Super key d keyup Super ; xset r on
+# urxvt -e sh -c 'xdotool keydown  --delay 100 Alt; xdotool  key --delay 500 Tab ; xdotool keyup  Alt'
+
+
+# make Mouse button 4 do Win+D
+"sleep 0.1 &&  xdotool keydown Super key d keyup Super"
+KP_Begin | m:0x0 + c:84
+
+# make Mouse button 5 do Alt+Tab
+"sleep 0.1 && xdotool keydown Alt; xdotool key --delay 100 Tab ; xdotool keyup Alt"
+KP_Up | m:0x0 + c:80
+
+# make Mouse button 1 Launch LinuxHelpy
+"~/AHK/ahkprivate/AHKassociatedFiles/LinuxRelatedFiles/WindowsQtC++Helpy/QtHelpy"
+KP_End | m:0x0 + c:87
